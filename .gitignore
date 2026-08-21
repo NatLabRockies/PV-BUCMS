@@ -13,3 +13,12 @@ __pycache__/
 *_Zone.Identifier
 .ipynb_checkpoints/
 **/.ipynb_checkpoints/
+
+# Local environment and test artifacts
+.env
+.venv/
+env/
+*.log
+.pytest_cache/
+.coverage
+htmlcov/

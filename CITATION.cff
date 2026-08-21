@@ -1,0 +1,65 @@
+cff-version: 1.2.0
+message: "If you use this software, cite the software record and the associated NREL technical report."
+title: "PV-BUCMS: Photovoltaic Bottom-Up Cost Model Suite - Q1 2022"
+type: software
+version: "1.0.0"
+authors:
+  - family-names: Ramasamy
+    given-names: Vignesh
+    affiliation: National Renewable Energy Laboratory
+  - family-names: Zuboy
+    given-names: Jarett
+    affiliation: National Renewable Energy Laboratory
+  - family-names: O'Shaughnessy
+    given-names: Eric
+    affiliation: Clean Kilowatts, LLC
+  - family-names: Feldman
+    given-names: David
+    affiliation: National Renewable Energy Laboratory
+  - family-names: Desai
+    given-names: Jal
+    affiliation: National Renewable Energy Laboratory
+  - family-names: Woodhouse
+    given-names: Michael
+    affiliation: National Renewable Energy Laboratory
+  - family-names: Basore
+    given-names: Paul
+    affiliation: U.S. Department of Energy Solar Energy Technologies Office
+  - family-names: Margolis
+    given-names: Robert
+    affiliation: National Renewable Energy Laboratory
+repository-code: "https://github.com/vignatlab/PV-BUCMS"
+url: "https://www.nrel.gov/docs/fy22osti/83586.pdf"
+keywords:
+  - photovoltaic
+  - solar
+  - bottom-up cost model
+  - minimum sustainable price
+  - modeled market price
+  - techno-economic analysis
+preferred-citation:
+  type: report
+  title: "U.S. Solar Photovoltaic System and Energy Storage Cost Benchmarks, With Minimum Sustainable Price Analysis: Q1 2022"
+  year: 2022
+  institution:
+    name: National Renewable Energy Laboratory
+  number: "NREL/TP-7A40-83586"
+  url: "https://www.nrel.gov/docs/fy22osti/83586.pdf"
+  authors:
+    - family-names: Ramasamy
+      given-names: Vignesh
+    - family-names: Zuboy
+      given-names: Jarett
+    - family-names: O'Shaughnessy
+      given-names: Eric
+    - family-names: Feldman
+      given-names: David
+    - family-names: Desai
+      given-names: Jal
+    - family-names: Woodhouse
+      given-names: Michael
+    - family-names: Basore
+      given-names: Paul
+    - family-names: Margolis
+      given-names: Robert
+

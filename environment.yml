@@ -1,0 +1,18 @@
+name: pv-bucms-q1-2022
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - pandas=0.24.1
+  - numpy
+  - matplotlib
+  - requests
+  - xlrd=1.2.0
+  - xlsxwriter
+  - openpyxl
+  - seaborn
+  - pip
+  - pip:
+      - wget
+
