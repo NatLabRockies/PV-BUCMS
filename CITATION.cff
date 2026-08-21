@@ -28,7 +28,7 @@ authors:
   - family-names: Margolis
     given-names: Robert
     affiliation: National Renewable Energy Laboratory
-repository-code: "https://github.com/vignatlab/PV-BUCMS"
+repository-code: "https://github.com/NatLabRockies/PV-BUCMS"
 url: "https://www.nrel.gov/docs/fy22osti/83586.pdf"
 keywords:
   - photovoltaic
@@ -62,4 +62,3 @@ preferred-citation:
       given-names: Paul
     - family-names: Margolis
       given-names: Robert
-
