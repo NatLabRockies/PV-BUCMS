@@ -1,0 +1,5 @@
+cd "Users\dfeldman\Box Sync\Solar TEA FY19-FY21 AOP\Cost Models\Python_models\Windows Versions of Python Models\Utility System Benchmark Model"
+
+cd python
+
+python main_national.py

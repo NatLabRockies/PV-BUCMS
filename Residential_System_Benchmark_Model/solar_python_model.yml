@@ -1,0 +1,12 @@
+name: solar_python_model
+channels:
+  - defaults
+  - https://conda.anaconda.org/conda-forge/
+dependencies:
+  - python=3
+  - matplotlib
+  - numpy
+  - pandas=0.24.1
+  - requests
+  - xlrd
+  - xlsxwriter

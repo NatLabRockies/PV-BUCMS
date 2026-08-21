@@ -1,0 +1,42 @@
+Description,Category,ID,Job Quantity,Labor Hours,Material Bare Cost,Equipment Bare Cost
+Preconstruction Surveys,Civil,A,,7.273,45,11.05
+Access Roads and Parking,Civil,B,,0.067,4.96,0.46
+Security Fencing,Civil,C,,0.096,24.5,1.56
+Temporary Office,Civil,D,2,32,26200,
+Storage Box,Civil,E,,8.889,5300,
+O & M Building,Civil,F,2000,0.06,30,
+Site Preparation (Geotechnical Investigation),Civil,G,,16,,1600
+Site Preparation (Clearing and Grubbing),Civil,H,,48,,1800
+Site Preparation (Soil Stripping and stockpiling),Civil,I,,0.005,,0.84
+Site Preparation (Grading),Civil,J,,0.008,,0.39
+Site Preparation (Compaction),Civil,K,,0.04,,0.56
+Foundation for inverter/transformer/PVCS/Substation,Civil,L,,0.137,4.2,
+Trenches,Civil,M,,0.017,,0.21
+Foundation for Vertical Support,Civil,N,,0.074,17.05,2.77
+Horizontal Support Structures,Civil,O,,0.828,270,43
+Welding or Bolting,Civil,P,,1,6.4,18.4
+Modules Mounting,Civil,Q,,0.25,,0
+T- Connection,Civil,R,,1,,0
+U-Joint & Driveline,Civil,AB,,3,280,0
+Slave Gearbox,Civil,AC,,4,950,0
+Motor & Controller Equipment,Civil,AD,,4,2600,0
+"Conduit, Wiring",Electrical,T,,0.1,4.82,0
+"Grounding, DC Cable",Electrical,U,,0.8,55,0
+Junction/Combiner Boxes,Electrical,V,,8,1100,0
+Inverter House,Electrical,W,,8,0,0
+On-site Transmission,Electrical,X,,8,0,0
+PV Combining Switchgear (PVCS),Electrical,Y,,16,10000,0
+On-site transformer & Substation,Electrical,Z,,80,,0
+Site Preparation (Clearing and Grubbing) Transmission,Electrical,H,,48,0,1800
+Tower: Foundation Installation,Electrical,T2,,,,
+Tower: Structure Costs,Electrical,T3,,0,,
+Tower: Top Assembly,Electrical,T3,,48,,
+Conductor and Cable Transmission,Electrical,U,,0.8,55,0
+Misc. Assembly Units Transmission,Electrical,T3,25%,,,
+Site Preparation (Clearing and Grubbing) Distribution,Electrical,H,,48,0,1800
+Wood Pole: Foundation Installation,Electrical,T2,,,,
+Wood Pole: Structure Costs,Electrical,T3,,0,,
+Wood Pole: Top Assembly,Electrical,T3,,48,,
+Conductor and Cable Distribution,Electrical,U,,0.8,55,0
+Misc. Assembly Units Distribution,Electrical,T3,25%,,,
+Interconnection Fee Per MW,Electrical,AA,1,0,30611.47265,0

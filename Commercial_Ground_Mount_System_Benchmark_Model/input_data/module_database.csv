@@ -1,0 +1,10 @@
+"Module 
+Description",Made in,Module Brand,Wattage,"Cell 
+Orientation",Cell Type,"Efficiency
+(from Specs)","Degradation 
+@ 0 year","Degradation 
+@ 25 year",Length (mm),Width (mm),Length (in),Width (in),Weight (lb),"Module Area 
+(sqt. m)","Efficiency 
+(from formula)",Vmpp (V),Impp (A),Voc (A),Isc (A),NOCT (deg C),Temp Coeff Pmax (%/deg C),Temp Coeff Voc (%/deg C),Temp Coeff Isc (%/deg C)
+LG400N2W-A5-MC4,,LG-Utility,400,72,Mono-PERC,20.30%,,,1948,1024,76.68,40.32,47.84,1.99,20.23%,40.2,9.83,49.3,10.47,47.7,-0.41%,-0.32%,0.05%
+LG370Q1C-V5,,LG-Residential,370,60,Mono-PERC,20.30%,,,1700,1045,67,42.5,38.5809,1.77,20.23%,37,10.01,42.8,10.82,,,,

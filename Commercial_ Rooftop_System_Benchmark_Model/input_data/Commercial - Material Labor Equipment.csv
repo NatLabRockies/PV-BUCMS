@@ -1,0 +1,34 @@
+Description,Category,ID,Job Quantity,Job Quantity if Battery,Average,Labor Hours,Material Bare Cost,Equipment Bare Cost
+Preconstruction Surveys,Civil,A,,,,7.273,45,11.05
+Preconstruction Surveys (for Battery),Civil,A,,,,7.273,45,11.05
+Security Fencing (for Battery),Civil,C,,,,0.096,24.5,1.56
+Site Preparation (Geotechnical Investigation),Civil,G,,1,,16,0,1600
+Site Preparation (Roof Clean and Prep),Civil,H,,,,48,0,1800
+Site Preparation (Soil Stripping and stockpiling),Civil,I,,,0.2,0.005,0,0.84
+Site Preparation (Grading),Civil,J,,,,0.008,0,0.39
+Site Preparation (Compaction),Civil,K,,,0.23,0.04,0,0.56
+Lifting & Hoisting by Crane,Civil,M,20,,,2,0,187.72
+Lifting & Hoisting by Crane on site (for Battery),Civil,M,,8,,6,0,187.72
+Module Installation,Civil,L,,,,0.5,0,0
+Racking Installation,Civil,L,,,,0.5,0,0
+"Loading, Drive, and Unloading",Civil,AB,1,,,32,0,300
+Loading & Drive from OEM (for Battery),Civil,AB,,1,,48,0,2000
+PV source conductor - array to transition box,Electrical,S,,,,1,46.5,0
+PV output conductor - transition box to inverter,Electrical,S,,,,1,34.5,0
+Conduit - transition box to inverter,Electrical,S,,,,0.16,8.6,0
+Transition Boxes,Electrical,S,,,,2,260,0
+Grounding and bonding for array,Electrical,S,,,,0.8,55,0
+"Grounding, DC Cable",Electrical,U,,300,,0.8,55,0
+Inverter,Electrical,S,,,,4,0,0
+Conductor - inverter to AC panel,Electrical,S,,,,1.231,55,0
+Conduit - inverter to AC panel,Electrical,S,,,,0.07,2.07,0
+AC Subpanel,Electrical,W,1,,,10,2900,0
+Big AC Disco,Electrical,W,1,,,13.333,2600,0
+Conductor - AC disco to point of interconnection,Electrical,W,,,,2.759,241,0
+Conduit - AC disco to point of interconnection,Electrical,S,,,,0.1333,6.8,0
+"Conduit, Wiring",Electrical,T,,300,,0.1,4.82,0
+Revenue Grade Meter,Electrical,S,1,,,16,0,0
+System Monitor,Electrical,S,1,,,16,0,0
+PE stamped calcs & drawings,Electrical,S,,1,,,0,0
+OEM testing and commissioning (Battery),Electrical,S,,1,,80,0,0
+"Interconnection, testing and commissioning",Electrical,S,1,,,80,0,0
