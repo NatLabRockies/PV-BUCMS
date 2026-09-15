@@ -10,7 +10,7 @@ This repository is the software companion to NREL Technical Report [NREL/TP-7A40
 
 This repository is being prepared as an archival software-record submission. Version `1.0.0` identifies the Q1 2022 model snapshot. The code is research software and has not been packaged as a supported production application.
 
-The software license is pending formal approval. Until approved license text replaces [LICENSE.md](LICENSE.md), no permission to use, copy, modify, or redistribute the software should be inferred.
+The software is released under the [BSD 3-Clause License](LICENSE).
 
 ## What the models estimate
 
@@ -116,4 +116,3 @@ This work was authored in part by the National Renewable Energy Laboratory, oper
 ## Support
 
 This archival snapshot does not yet define a public support channel. Questions about the software-record submission should be directed to the repository owner or the responsible institutional software-record administrator.
-

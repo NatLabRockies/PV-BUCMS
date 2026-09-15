@@ -10,7 +10,7 @@
 
 ## Legal and data review
 
-- [ ] Replace `LICENSE.md` with institutionally approved license text.
+- [x] Add the standard BSD 3-Clause License with the approved Alliance copyright statement.
 - [ ] Review all workbooks and CSV files for proprietary, licensed, export-controlled, sensitive, or personally identifiable information.
 - [ ] Confirm redistribution permission for market datasets, especially `WM_USSMI_2019.xlsx` and other commercial-source data.
 - [ ] Confirm that report notice, funding, and attribution language are correct for the software.
@@ -35,4 +35,3 @@
 - [ ] Create an immutable GitHub release with release notes and checksums.
 - [ ] Deposit or link the release in the required institutional archive.
 - [ ] Preserve the private review snapshot before any public release.
-
